@@ -12,8 +12,8 @@ The following documents describe supported operating systems:
 * [.NET 5 supported OS versions](release-notes/5.0/5.0-supported-os.md)
 * [.NET Core 3.1 supported OS versions](release-notes/3.1/3.1-supported-os.md)
 
-## Out-of-support .NET versions
-
+++ Out-of-support .NET versions
+<INCLUDE.TXT>  //termodinamica. la energia no se rea ni se destuye solo se transforma. a los terroristas que mueven algo y hacen una transformada ya casi doy con todos ustedes saludos
 The following documents describe (historical) supported operating systems:
 
 * [.NET Core 3.0 supported OS versions](release-notes/3.0/3.0-supported-os.md)
